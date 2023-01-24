@@ -1,0 +1,15 @@
+
+// Custom
+//@import "./custom/variables.scss";
+@import "./custom/nav.scss";
+@import "./custom/buttons.scss";
+//@import "./custom/public-header.scss";
+//@import "./custom/public-footer.scss";
+
+
+// Bootstrap and its default variables
+@import "../../../node_modules/bootstrap/scss/bootstrap";
+
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
